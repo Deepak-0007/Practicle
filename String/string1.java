@@ -5,7 +5,7 @@ public class string1 {
 
 	char[] arr={'d','e','e','p','k'};
 	System.out.println(arr);
-	String s=new String(arr);
+	String s=new String(arr); // by using new keyword creating string objext
 	System.out.println("value is  "+s);
 	}
 	
