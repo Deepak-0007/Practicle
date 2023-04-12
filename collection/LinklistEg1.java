@@ -32,7 +32,7 @@ public class LinklistEg1 {
 		l1.addAll(2, l2);
 		System.err.println("after adding the all element of 2 positon of l1"+l1);
 		l2.addLast("Sunil");
-		System.err.println("After adding the last element of the list "+l2);
+		System.err.println("After adding the last element of the list2 "+l2);
 	}
 
 }
