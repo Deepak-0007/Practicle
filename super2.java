@@ -4,7 +4,7 @@ class name1 {
 class department extends name1{
     void print(){
         System.out.println(super.name);
-        System.out.println("Department of nitesh is DCSA");
+        System.out.println("Department of nitesh is DCS");
         
             }
             void display(){
